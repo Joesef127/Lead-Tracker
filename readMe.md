@@ -21,7 +21,7 @@ What this is:
   <h2 align="center">Lead Tracker App</h2>
   <p>A simple chrome extension that can store and display links/leads. it enables user to clear list when they no longer need them and also a save tab button which saves the link of the current tab</p>
 
-<a href="https://savelinks.netlify.app"><strong>➥ Live Demo</strong></a>
+<a href="https://trackleads.netlify.app"><strong>➥ Live Demo</strong></a>
 
 <br />
 
