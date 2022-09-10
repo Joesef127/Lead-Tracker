@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "version": "0.1",
+  "name": "Leads Tracker",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "merlinhive_wht.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "description": "Save your links and revisit them later with easy access"
+}
